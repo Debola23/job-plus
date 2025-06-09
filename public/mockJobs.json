@@ -1,0 +1,132 @@
+[
+  {
+    "job_id": "mock-1",
+    "job_title": "Frontend Developer",
+    "employer_name": "MockTech Inc.",
+    "job_city": "New York",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Join our team to build amazing frontend apps using React.",
+    "job_apply_link": "https://mocktech.example.com/apply"
+  },
+  {
+    "job_id": "mock-2",
+    "job_title": "Backend Developer",
+    "employer_name": "DataCore",
+    "job_city": "San Francisco",
+    "job_country": "USA",
+    "job_employment_type": "Contract",
+    "job_description": "We’re looking for a backend expert familiar with Node.js and MongoDB.",
+    "job_apply_link": "https://datacore.example.com/apply"
+  },
+  {
+    "job_id": "mock-3",
+    "job_title": "Fullstack Developer",
+    "employer_name": "BuildSpace",
+    "job_city": "Austin",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Work across frontend and backend systems using modern tech stacks.",
+    "job_apply_link": "https://buildspace.example.com/apply"
+  },
+  {
+    "job_id": "mock-4",
+    "job_title": "UI/UX Designer",
+    "employer_name": "DesignCo",
+    "job_city": "Seattle",
+    "job_country": "USA",
+    "job_employment_type": "Part-time",
+    "job_description": "Design beautiful and intuitive user interfaces for web and mobile apps.",
+    "job_apply_link": "https://designco.example.com/apply"
+  },
+  {
+    "job_id": "mock-5",
+    "job_title": "DevOps Engineer",
+    "employer_name": "CloudWave",
+    "job_city": "Denver",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Manage CI/CD pipelines and cloud infrastructure on AWS.",
+    "job_apply_link": "https://cloudwave.example.com/apply"
+  },
+  {
+    "job_id": "mock-6",
+    "job_title": "Data Analyst",
+    "employer_name": "InsightCorp",
+    "job_city": "Chicago",
+    "job_country": "USA",
+    "job_employment_type": "Internship",
+    "job_description": "Analyze datasets and create dashboards using SQL and Tableau.",
+    "job_apply_link": "https://insightcorp.example.com/apply"
+  },
+  {
+    "job_id": "mock-7",
+    "job_title": "Mobile Developer",
+    "employer_name": "Appify",
+    "job_city": "Los Angeles",
+    "job_country": "USA",
+    "job_employment_type": "Contract",
+    "job_description": "Develop and maintain iOS and Android applications using Flutter.",
+    "job_apply_link": "https://appify.example.com/apply"
+  },
+  {
+    "job_id": "mock-8",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "AIMinds",
+    "job_city": "Boston",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Build and deploy ML models using Python, TensorFlow, and AWS SageMaker.",
+    "job_apply_link": "https://aiminds.example.com/apply"
+  },
+  {
+    "job_id": "mock-9",
+    "job_title": "QA Engineer",
+    "employer_name": "TestLabs",
+    "job_city": "Phoenix",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Create automated test suites and perform regression testing.",
+    "job_apply_link": "https://testlabs.example.com/apply"
+  },
+  {
+    "job_id": "mock-10",
+    "job_title": "Technical Writer",
+    "employer_name": "DocuPro",
+    "job_city": "Portland",
+    "job_country": "USA",
+    "job_employment_type": "Part-time",
+    "job_description": "Write and edit documentation for APIs, user guides, and tutorials.",
+    "job_apply_link": "https://docupro.example.com/apply"
+  },
+  {
+    "job_id": "mock-11",
+    "job_title": "Cybersecurity Specialist",
+    "employer_name": "SecureNet",
+    "job_city": "Miami",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Monitor network activity and implement security best practices.",
+    "job_apply_link": "https://securenet.example.com/apply"
+  },
+  {
+    "job_id": "mock-12",
+    "job_title": "Product Manager",
+    "employer_name": "LaunchNow",
+    "job_city": "Atlanta",
+    "job_country": "USA",
+    "job_employment_type": "Remote",
+    "job_description": "Lead cross-functional teams to deliver high-impact product features.",
+    "job_apply_link": "https://launchnow.example.com/apply"
+  },
+  {
+    "job_id": "mock-13",
+    "job_title": "IT Support Specialist",
+    "employer_name": "TechHelp",
+    "job_city": "Dallas",
+    "job_country": "USA",
+    "job_employment_type": "Full-time",
+    "job_description": "Provide technical support and troubleshooting for internal teams.",
+    "job_apply_link": "https://techhelp.example.com/apply"
+  }
+]

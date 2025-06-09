@@ -1,0 +1,22 @@
+.SearchBox{
+    color: white;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-top: 5rem;
+    text-align: center;
+}
+#jobH{
+    margin-bottom: 1.1rem;
+}
+
+
+@media (max-width: 598px) {
+    #jobH{
+        font-size: 19.679px;
+    }
+    #jobp{
+        font-size: 13.679px;
+    }
+
+}

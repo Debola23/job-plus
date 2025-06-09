@@ -1,0 +1,71 @@
+.Barner1{
+    color: white;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+}
+#banBox{
+    border: 2px solid #00246b;
+    border-radius: 10px;
+    box-shadow:  0 10px 15px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+#banT1{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+#banT2{
+    font-weight: 600;
+}
+#slideText{
+    color: oklch(62.3% 0.214 259.815);
+}
+
+
+
+
+@media (max-width: 798px) {
+
+  #banBox{
+        height: 12rem;
+        width: 40rem;
+    }
+
+}
+@media (max-width: 598px) {
+    #banBox{
+        height: 12rem;
+        width: 26rem;
+    }
+    #banT1{
+        font-size: 1.264rem;
+        
+    }
+    #banT2{
+        font-size: 1rem;
+    }
+
+}
+@media (max-width: 420px) {
+    #banBox{
+        height: 12rem;
+        width: 25rem;
+    }
+    #banT1{
+        font-size: 18px;
+    }
+    #banT2{
+        font-size: 14px;
+    }
+
+
+}
+@media (max-width: 398px) {
+    #banBox{
+        height: 12rem;
+        width: 23.439rem;
+    }
+
+
+}
