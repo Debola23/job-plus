@@ -1,5 +1,5 @@
 import Modal from '../Modal/Modal';
-import Styles from './hero.module.css'
+import Styles from './Hero.module.css'
 import { useState } from 'react';
 
 
