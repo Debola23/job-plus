@@ -17,7 +17,7 @@
 
 | Layer        | Technology                     |
 |--------------|--------------------------------|
-| Frontend     | React.js, Vite                 |
+| Frontend     | React.js                       |
 | UI Framework | Tailwind CSS, CSS Modules      |
 | Animations   | Framer Motion                  |
 | Routing      | React Router DOM               |
